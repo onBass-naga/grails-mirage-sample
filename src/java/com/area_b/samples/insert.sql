@@ -1,0 +1,1 @@
+INSERT INTO `customer`(`id`, `version`, `name`) VALUES (0, 1, 'new Jhone')
